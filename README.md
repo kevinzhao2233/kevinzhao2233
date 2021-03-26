@@ -9,7 +9,6 @@ I'm a frontEnd web developer from China.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinzhao2233&show_icons=true&theme=buefy&line_height=27" />
 </a>
 
-![访问次数](https://visitor-badge.glitch.me/badge?page_id=kevinzhao2233)
 
 <a href="https://github.com/kevinzhao2233/typora-theme-pie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinzhao2233&repo=typora-theme-pie" />
