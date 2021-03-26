@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm KevinZhao! 👋
 
-<!--
-**kevinzhao2233/kevinzhao2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontEnd web developer from China.
 
-Here are some ideas to get you started:
+<a href="https://github.com/kevinzhao2233">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinzhao2233&hide=HTML,typescript&theme=buefy" />
+</a>
+<a href="https://github.com/kevinzhao2233">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinzhao2233&show_icons=true&theme=buefy&line_height=27" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![访问次数](https://visitor-badge.glitch.me/badge?page_id=kevinzhao2233)
+
+<a href="https://github.com/kevinzhao2233/typora-theme-pie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinzhao2233&repo=typora-theme-pie" />
+</a>
+<a href="https://github.com/kevinzhao2233/b-pretty-log">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevinzhao2233&repo=b-pretty-log" />
+</a>
