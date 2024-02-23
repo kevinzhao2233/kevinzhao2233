@@ -4,7 +4,7 @@ I'm a frontend developer from China.
 
 
 <a href="https://github.com/kevinzhao2233" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=kevinzhao2233&count_private=true&theme=radical" />
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=kevinzhao2233&count_private=true&theme=default" />
 </a>
 
 <a href="https://github.com/kevinzhao2233" target="_blank">
